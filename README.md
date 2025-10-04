@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="Assets/header.png"/>
 <!--
 **WheezyAlien/WheezyAlien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
